@@ -44,14 +44,14 @@
     1. Create a working copy of the dataset (sample down if needed).
     2. Use a Jupyter notebook to document exploration.
     3. Study each attribute:
-    - Name
-    - Data type (categorical, numeric, text, structured, etc.)
-    - Missing values
-    - Noisiness / outliers
-    - Distribution (Gaussian, uniform, log, etc.)
-    - Potential usefulness
+        - Name
+        - Data type (categorical, numeric, text, structured, etc.)
+        - Missing values
+        - Noisiness / outliers
+        - Distribution (Gaussian, uniform, log, etc.)
+        - Potential usefulness
 
-    ## Visual Exploration:
+## Visual Exploration:
     4. Visualize the data.
     5. Analyze correlations between features.
     6. Understand how a human would manually solve the task.
